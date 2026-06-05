@@ -16,7 +16,7 @@ Los datos crudos fueron extraídos del portal de Datos Abiertos del Gobierno de 
 * **Visualización (Looker Studio):** Desarrollo de 3 dashboards interactivos para responder a las preguntas de negocio.
 
 ## 📈 Resultados y Hallazgos Clave
-
+https://datastudio.google.com/reporting/977731bd-0063-424d-88fe-7bd8e21e3497/page/AwAzF
 ### 1. Brecha de Género en Créditos
 * **Insight:** Existe una brecha general del 6,79% a favor de los hombres en el valor promedio de los créditos asignados.
 * **Comportamiento Urbano:** En hubs urbanos como Bogotá y Atlántico, las mujeres solicitan un mayor volumen de créditos que los hombres, pero por montos drásticamente menores (ticket promedio más bajo).
