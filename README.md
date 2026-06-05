@@ -20,7 +20,8 @@ Los datos crudos fueron extraídos del portal de Datos Abiertos del Gobierno de 
 ### 1. Brecha de Género en Créditos
 * **Insight:** Existe una brecha general del 6,79% a favor de los hombres en el valor promedio de los créditos asignados.
 * **Comportamiento Urbano:** En hubs urbanos como Bogotá y Atlántico, las mujeres solicitan un mayor volumen de créditos que los hombres, pero por montos drásticamente menores (ticket promedio más bajo).
-*(Agrega aquí la imagen de tu dashboard: `![Dashboard Brecha de Género](ruta_de_tu_imagen.png)`)*
+<img width="1112" height="799" alt="image" src="https://github.com/user-attachments/assets/f18e4d16-3edd-4f8e-a84b-47b3f01b31f9" />
+
 
 ### 2. Brecha de Exclusión Financiera Municipal
 * **Insight:** Se evidenció una desigualdad extrema. Mientras el consolidado nacional sostiene un saldo promedio por cuenta de $1.664.382, los "Municipios con Menor Acceso" apenas alcanzan los $632.098.
