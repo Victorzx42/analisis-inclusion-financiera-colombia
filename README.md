@@ -26,12 +26,12 @@ Los datos crudos fueron extraídos del portal de Datos Abiertos del Gobierno de 
 ### 2. Brecha de Exclusión Financiera Municipal
 * **Insight:** Se evidenció una desigualdad extrema. Mientras el consolidado nacional sostiene un saldo promedio por cuenta de $1.664.382, los "Municipios con Menor Acceso" apenas alcanzan los $632.098.
 * **Zonas Críticas:** Municipios como Pacoa y Puerto Alegría registran cero (0) corresponsales, lo que se traduce en una captación nula de ahorro formal.
-*(Agrega aquí la imagen de tu dashboard: `![Dashboard Exclusión Financiera](ruta_de_tu_imagen.png)`)*
+<img width="1122" height="831" alt="image" src="https://github.com/user-attachments/assets/b889894f-70f5-4de5-b7a5-b37fde962de3" />
 
 ### 3. Adopción: Banca Tradicional vs. Digital
 * **Insight:** La digitalización del portafolio se encuentra en una fase temprana, con una Tasa Nacional de Adopción de apenas el 6,0%.
 * **Uso Real:** El indicador más crítico revela que solo el 0,77% utiliza la cuenta digital como su cuenta principal; la gran mayoría la abre como producto secundario o de prueba, manteniendo su capital anclado a la banca tradicional.
-*(Agrega aquí la imagen de tu dashboard: `![Dashboard Adopción Digital](ruta_de_tu_imagen.png)`)*
+<img width="1104" height="827" alt="image" src="https://github.com/user-attachments/assets/660e26be-15c8-4856-9804-7574238b77f9" />
 
 ## 🚀 Conclusiones y Pasos Futuros (Recomendaciones Estratégicas)
 Con base en los datos analizados, se recomiendan las siguientes acciones comerciales:
